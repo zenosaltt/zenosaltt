@@ -4,6 +4,9 @@
 * [phy](https://github.com/zenosaltt/phy): physics notes and LaTeX template;
 * [fmi](https://github.com/zenosaltt/fmi): _Fondamenti Matematici per l'Informatica_
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 <!--
 **zenosaltt/zenosaltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
