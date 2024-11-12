@@ -4,7 +4,8 @@
 * [phy](https://github.com/zenosaltt/phy): physics notes and LaTeX template;
 * [fmi](https://github.com/zenosaltt/fmi): _Fondamenti Matematici per l'Informatica_
 
-![Zeno's stats](https://github-readme-stats.vercel.app/api?username=zenosaltt&show_icons=true&theme=transparent)
+<img width=“964” alt=“mountains” src=“https://github.com/zenosaltt/IMG_7598”>
+<!-- ![Zeno's stats](https://github-readme-stats.vercel.app/api?username=zenosaltt&show_icons=true&theme=transparent) -->
 
 
 <!--
