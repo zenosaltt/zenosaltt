@@ -1,5 +1,5 @@
 # Welcome, my name is Zeno
-<kbd><img src="IMG_7598.jpg" alt="Mountains" width="50%" height="auto"><img src="glasses.webp" alt="Glasses" width="50%" height="auto"></kbd>
+<kbd><img src="IMG_7598.jpg" alt="Mountains" width="50%" height="auto"><img src="IMG_7598 (1).jpg" alt="Mountains" width="50%" height="auto"></kbd>
 
 ### Some interesting notes
 * [phy](https://github.com/zenosaltt/phy): physics notes and LaTeX template;
