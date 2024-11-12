@@ -1,8 +1,8 @@
 # Welcome, my name is Zeno
 
 ### Some interesting notes
-* [phy](phy): physics notes and LaTeX template;
-* [fmi](fmi): _Fondamenti Matematici per l'Informatica_
+* [phy](https://github.com/zenosaltt/phy): physics notes and LaTeX template;
+* [fmi](https://github.com/zenosaltt/fmi): _Fondamenti Matematici per l'Informatica_
 
 <!--
 **zenosaltt/zenosaltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
