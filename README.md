@@ -4,7 +4,7 @@
 * [phy](https://github.com/zenosaltt/phy): physics notes and LaTeX template;
 * [fmi](https://github.com/zenosaltt/fmi): _Fondamenti Matematici per l'Informatica_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Zeno's stats](https://github-readme-stats.vercel.app/api?username=zenosaltt&show_icons=true&theme=transparent)
 
 
 <!--
