@@ -1,7 +1,7 @@
 ## Welcome, my name is Zeno
 <kbd><img src="etnom.jpg" alt="Mountains" width="50%" height="auto"><img src="monti.jpg" alt="Mountains" width="50%" height="auto"></kbd>
 
-### Some interesting notes
+### Notes
 * [phy](https://github.com/zenosaltt/phy): physics notes and LaTeX template;
 * [fmi](https://github.com/zenosaltt/fmi): _Fondamenti Matematici per l'Informatica_
 
