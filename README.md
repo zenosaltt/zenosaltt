@@ -1,5 +1,5 @@
 ## Welcome
-<kbd><img src="IMG_6215.jpg" alt="Mountains" width="100%" height="auto"></kbd>
+<kbd><img src="IMG_7598.jpg" alt="Mountains" width="100%" height="auto"></kbd>
 
 ### Programming-oriented projects
 * [ands](https://github.com/zenosaltt/ands): common algorithms and data structures written in C++.
