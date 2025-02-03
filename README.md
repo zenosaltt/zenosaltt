@@ -1,7 +1,7 @@
 ## Welcome
 <kbd><img src="montagna.jpg" alt="Mountains" width="100%" height="auto"></kbd>
 
-![](https://skillicons.dev/icons?i=c,cpp,java,bash,linux,git,latex)
+![](https://skillicons.dev/icons?i=latex,c,cpp,java,bash,linux,git)
 
 ### Programming-oriented projects
 * [ands](https://github.com/zenosaltt/ands): common algorithms and data structures written in C++.
