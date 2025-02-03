@@ -1,6 +1,8 @@
 ## Welcome
 <kbd><img src="montagna.jpg" alt="Mountains" width="100%" height="auto"></kbd>
 
+![](https://skillicons.dev/icons?i=c,cpp,java,bash,linux,git,latex)
+
 ### Programming-oriented projects
 * [ands](https://github.com/zenosaltt/ands): common algorithms and data structures written in C++.
 <!-- [ngn-repo](https://github.com/zenosaltt/ngn-repo): a cognitive wifi radio infrastructure based on GNU Radio. _Next Generation Networks_ exam project. -->
