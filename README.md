@@ -11,7 +11,7 @@ My name is Zeno. I am studying computer science in Trento. Oh yes, and I am real
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,arduino" />
   </a>
 
-  <h4>Others</h4>
+  <h4>Miscellaneous</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=latex,bash,linux,git" />
   </a>
