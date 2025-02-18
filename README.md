@@ -8,7 +8,7 @@ My name is Zeno. I am studying computer science in Trento. I am really into phot
 <p align="center">
   <h4>Computer programming</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
   </a>
 
   <h4>Miscellaneous</h4>
