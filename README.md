@@ -1,5 +1,5 @@
 ## Welcome
-My name is Zeno. I am studying computer science in Trento. I am really into photography, cinematography and rock climbing. And mountain biking. And playing the flute. And skiing. And tabletop games. And cats.
+<!-- My name is Zeno. I am studying computer science in Trento. I am really into photography, cinematography and rock climbing. And mountain biking. And playing the flute. And skiing. And tabletop games. And cats. -->
 
 <kbd><img src="montagna.jpg" alt="Mountains" width="100%" height="auto"></kbd>
 
@@ -28,5 +28,3 @@ My name is Zeno. I am studying computer science in Trento. I am really into phot
 ### LaTeX Notes
 * [phy](https://github.com/zenosaltt/phy): physics notes and LaTeX template;
 * [fmi](https://github.com/zenosaltt/fmi): _Fondamenti Matematici per l'Informatica_
-
-<!-- ![Zeno's stats](https://github-readme-stats.vercel.app/api?username=zenosaltt&show_icons=true&theme=transparent) -->
