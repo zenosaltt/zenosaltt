@@ -34,3 +34,4 @@ I am really into many things; (only) a few examples:
 * I am an amateur flutist currently playing with two bands, mainly as non-principal and occasionally as principal
 * I am fond of photography, cinematography and literature
 * Table-top games
+* Skiing
