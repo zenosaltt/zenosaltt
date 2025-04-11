@@ -35,3 +35,5 @@ I am really into many things; (only) a few examples:
 * I am fond of photography, cinematography and literature
 * Table-top games
 * Skiing
+
+<kbd><img src="stoning.jpg" alt="Mountains" width="100%" height="auto"></kbd>
