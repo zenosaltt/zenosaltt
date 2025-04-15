@@ -29,11 +29,13 @@
 * [phy](https://github.com/zenosaltt/phy): physics notes and LaTeX template;
 * [fmi](https://github.com/zenosaltt/fmi): _Fondamenti Matematici per l'Informatica_
 
+<!--
 ## Furthermore...
 I am really into many things; (only) a few examples:
 * I am an amateur flutist currently playing with two bands, mainly as non-principal and occasionally as principal
 * I am fond of photography, cinematography and literature
 * Table-top games
 * Skiing
+-->
 
 <kbd><img src="stoning.jpg" alt="Mountains" width="100%" height="auto"></kbd>
