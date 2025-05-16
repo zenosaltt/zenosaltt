@@ -13,7 +13,7 @@
 
   <h4>Miscellaneous</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,bash,linux,git" />
+    <img src="https://skillicons.dev/icons?i=latex,linux" />
   </a>
   <!--
   <a href="https://www.gnuradio.org">
