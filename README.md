@@ -15,9 +15,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=latex,bash,linux,git" />
   </a>
+  <!--
   <a href="https://www.gnuradio.org">
     <img src="https://github.com/gnuradio/gr-logo/blob/master/gnuradio_icon-square-256.png?raw=true" height="50" width="auto" />
   </a>
+  -->
 
 </p>
 
