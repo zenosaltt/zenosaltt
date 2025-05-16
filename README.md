@@ -8,14 +8,16 @@
 <p align="center">
   <h4>Computer programming</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
   </a>
+
   Plus: SML for functional programming (basics)
 
   <h4>Miscellaneous</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=latex,linux,mysql" />
   </a>
+
   Plus: SPARQL + Blazegraph (basics), digital photography + Lightroom (intermediate)
   <!--
   <a href="https://www.gnuradio.org">
