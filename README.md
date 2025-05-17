@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=latex,linux,mysql" />
   </a>
 
-  Plus: SPARQL + Blazegraph (basics), digital photography + Lightroom (intermediate)
+  Plus: SPARQL + Blazegraph (basics), digital photography + Lightroom (basics)
   <!--
   <a href="https://www.gnuradio.org">
     <img src="https://github.com/gnuradio/gr-logo/blob/master/gnuradio_icon-square-256.png?raw=true" height="50" width="auto" />
