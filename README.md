@@ -14,11 +14,9 @@
   Plus: SML for functional programming (basics)
 
   <h4>Miscellaneous</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,linux,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=latex,linux,mysql" />
 
-  Plus: SPARQL + Blazegraph (basics), digital photography + Lightroom (basics)
+  Plus: <a href="https://www.w3.org/TR/rdf-sparql-query/">SPARQL</a> + <a href="https://github.com/blazegraph/database">Blazegraph</a> (basics), digital photography + Lightroom (basics)
   <!--
   <a href="https://www.gnuradio.org">
     <img src="https://github.com/gnuradio/gr-logo/blob/master/gnuradio_icon-square-256.png?raw=true" height="50" width="auto" />
