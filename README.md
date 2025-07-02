@@ -7,9 +7,7 @@
 
 <p align="center">
   <h4>Computer programming</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 
   Plus: SML for functional programming (basics)
 
